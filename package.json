@@ -1,24 +1,5 @@
 {
   "name": "MicroUITests",
   "version": "0.1.5",
-  "description": "tests",
-  "dependencies": {
-    "express": "~4.12.0",
-    "chai": "^3.4.1",
-    "chai-as-promised": "6.0.0",
-    "colors": "latest",
-    "grunt": "~1.4.1",
-    "grunt-concurrent": "latest",
-    "grunt-contrib-jshint": "latest",
-    "grunt-contrib-watch": "latest",
-    "grunt-env": "latest",
-    "grunt-simple-mocha": "latest",
-    "lodash": "latest",
-    "mocha": "^2.3.3",
-    "spec-xunit-file": "0.0.1-3",
-    "wd": "latest"
-  },
-  "engines": {
-    "node": "15.14.0"
-  }
+  "description": "tests placeholder"
 }
